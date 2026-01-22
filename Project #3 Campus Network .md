@@ -67,7 +67,7 @@ b. You will be expected to configure the core devices and few end devices to pro
 
 # 3 - The Design
 
-![Screenshot 2025-03-09 074552.png](Project%20#3%20Campus%20Network/Screenshot_2025-03-09_074552.png)
+![Campus.png](src/Campus.png)
 
 ---
 
