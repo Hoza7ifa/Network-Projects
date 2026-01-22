@@ -43,7 +43,7 @@ a. Create a network topology with the main components to support the following:
 
 ## 3 - The Design
 
-![hospital network.png](Project%20#6%20Hospital%20Network%20System/hospital_network.png)
+![hospital network.png](src/hospital_network.png)
 
 ---
 
