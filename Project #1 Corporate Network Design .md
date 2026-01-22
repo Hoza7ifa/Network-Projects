@@ -42,7 +42,7 @@ a. Create a network topology with the main components to support the following:
 
 ## 3 - The Design
 
-![bank enterprise project 2.png](Project%20#1%20Corporate%20Network%20Design/bank_enterprise_project_2.png)
+![bank enterprise project 2.png](src/bank_enterprise_project_2.png)
 
 ---
 
