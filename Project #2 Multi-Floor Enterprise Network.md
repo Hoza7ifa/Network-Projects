@@ -41,7 +41,7 @@ a. Create a network topology with the main components to support the following:
 
 ## 3 - The Design
 
-![bank project .png](Project%20#2%20Multi-Floor%20Enterprise%20Network/bank_project_.png)
+![bank project .png](src/bank_project_.png)
 
 ---
 
