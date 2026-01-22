@@ -40,7 +40,7 @@ a. Create a network topology with the main components to support the following:
 
 ## 3 - The Design
 
-![Company Business System Network Design .png](Project%20#5%20Multi-Layer%20Enterprise%20Network/Company_Business_System_Network_Design_.png)
+![Company Business System Network Design .png](src/Company_Business_System_Network_Design_.png)
 
 ---
 
