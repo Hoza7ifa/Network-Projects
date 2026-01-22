@@ -43,7 +43,7 @@ a. Create a network topology with the main components to support the following:
 
 ## 3 - The Design
 
-![voip telephony service network.png](Project%20#4%20Enterprise%20Networking%20with%20VoIP%20and%20Dat/voip_telephony_service_network.png)
+![voip telephony service network.png](src/voip_telephony_service_network.png)
 
 ---
 
